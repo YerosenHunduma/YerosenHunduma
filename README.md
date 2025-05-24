@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails ,React Native, Flutter**
 
-- 👨‍💻 All of my projects are available at [yerosen.com](yerosen.com)
+- 👨‍💻 All of my projects are available at [https://yerosen.vercel.app](https://yerosen.vercel.app)
 
 - 💬 Ask me about **MERN**
 
